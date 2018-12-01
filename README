@@ -1,1 +1,1 @@
-This is a simple implementation  of Naive Bayes for the online course assignment of Natural Language Processing by Dan Jurafsky.
+# IMDb review sentiment analysis using Naive-Bayes (+ Laplace Smoothing)
